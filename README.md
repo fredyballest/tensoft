@@ -67,3 +67,4 @@ Repositorio para el desarrollo de Tensoft para administración de inmobiliarias 
       - *insertando un cliente (el super user será un cliente) necesario para crear el primer tenant que es el público*;
 
       - *verificar el id del superusuario para la columna usuario_id*
+      un cambio de prueba
