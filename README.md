@@ -68,3 +68,4 @@ Repositorio para el desarrollo de Tensoft para administración de inmobiliarias 
 
       - *verificar el id del superusuario para la columna usuario_id*
      la prueba no 2
+     la prueba no 3
